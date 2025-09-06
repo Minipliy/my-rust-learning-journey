@@ -1,1 +1,0 @@
-/Users/lukashammer/my-rust-learning-journey/christmas_carol_lyrics_printer/target/debug/christmas_carol_lyrics_printer: /Users/lukashammer/my-rust-learning-journey/christmas_carol_lyrics_printer/src/main.rs
