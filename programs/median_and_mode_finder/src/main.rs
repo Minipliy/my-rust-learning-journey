@@ -26,7 +26,7 @@ fn mode_of_vector(vector: &Vec<i32>) {
     }
     let modes: Vec<i32> = map.iter()
         .filter(|(_, v)| **v == max_count)
-        .map(|(k, _)| *k)  // Fixed: dereference the key
+        .map(|(k, _)| *k)
         .collect();
     println!("The mode(s) of the given list is/are {:?}.", modes);
 }
