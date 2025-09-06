@@ -30,7 +30,6 @@ fn mode_of_vector(vector: &Vec<i32>) {
         .collect();
     println!("The mode(s) of the given list is/are {:?}.", modes);
 }
-
 fn median_of_vector(vector: &Vec<i32>) {
     let mut sorted: Vec<i32> = vector.clone();
     sorted.sort();
@@ -42,7 +41,6 @@ fn median_of_vector(vector: &Vec<i32>) {
         println!("The median of the given list is {}", median);
     }
 }
-
 fn read_user_input() -> String {
     let mut input = String::new();
     io::stdin()
