@@ -1,1 +1,0 @@
-/Users/lukashammer/rust-learning-journey/rust-learning-journey/converter_fahrenheit_celsius/target/debug/converter_fahrenheit_celsius: /Users/lukashammer/rust-learning-journey/rust-learning-journey/converter_fahrenheit_celsius/src/main.rs
