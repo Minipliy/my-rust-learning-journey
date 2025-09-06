@@ -17,6 +17,7 @@ fn main() {
         }
         match fibonacci_number.trim().parse::<u64>() {
             Ok(num) => {
+                
                 trimmed_fibonacci_number = num;
                 break;
             }
