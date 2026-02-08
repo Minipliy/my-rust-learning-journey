@@ -1,30 +1,31 @@
-# Rust Learning Journey
+# Rust Book Projects (2nd Edition, 2023)
 
-This repository documents my journey learning the Rust programming language using the *official Rust Book (2nd edition, 2023)*.  
-Here you'll find exercises, small projects, and challenges that I completed to deepen my understanding of Rust.
+This is my personal collection of solutions to the exercises and projects from the **official Rust Programming Language Book (2nd Edition, 2023)**.  
 
-## About
+Each folder contains the code I wrote whilst working through the book, covering topics from basic syntax and control flow to ownership, error handling, and concurrency.
 
-I am learning Rust step by step through the official book, tackling its exercises and challenges.  
-This repository serves both as a personal reference and a way to share my progress with others who are learning Rust.
+## Running the Projects
 
-## Goals
-- Gain a solid understanding of Rust basics and syntax  
-- Master ownership, borrowing, and lifetimes  
-- Solve exercises and challenges from the official Rust book  
-- Build small projects to reinforce learning  
+To try out the projects yourself, make sure you have Rust installed. Then:
 
-## Projects & Exercises
+1. Clone this repository:
 
-- Solutions to selected challenges from the Rust Book  
-- Practice programs demonstrating Rust concepts  
-- Notes and experiments exploring Rust features  
+```
+git clone https://github.com/Minipliy/rust-book-2e-projects.git
+```
 
-## Contributing
+2. Navigate into the project folder you want to run:
 
-Feel free to follow along, test the code, or suggest improvements!  
-This repository is primarily for personal learning, but collaboration and discussion are welcome.
+```
+cd programs/desired_project
+```
 
----
+3. Run the project with Cargo:
 
-*Happy coding! 🚀*
+```
+cargo run
+```
+
+## Reference
+
+- [The Rust Programming Language, 2nd Edition (2023)](https://doc.rust-lang.org/book/)
